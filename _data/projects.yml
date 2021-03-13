@@ -13,21 +13,37 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: A pilot who looked kinda like Alan from Hangover
+  descr: "The video lectures are simple to understand yet makes us learn the complexity of
+      the markets. Came to know through Instagram. Never hesitated to contact Arvind
+      to clear my doubts and he never fails to get back. I'm more than satisfied and
+      would definitely recommend this!"
+  demo:
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Unpaid Review
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: A trader with unusually large biceps
+  descr: "This course is a goldmine,
+      to generate amazing profits! Tried and Tested. I have been a full time trader
+      for 1.5 years now. This has completely changed the way I see the markets. This
+      course can change your life trust me!"
+  demo:
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Unpaid Review
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+
+- name: A Chartered Accountant with unusually curly hair
+  descr: "For someone who was
+      a more than a little skeptical about stock trading, this course really helped
+      me.A ton of appreciation to Arvind for making sure that I am not listening to
+      a very rigid professional course but rather like listening from my friend who
+      has experience in it. There are a lots of excercise and activities for us to
+      do which makes us put some practical aspect from the learning we gained."
+  tags:
+    - tag: Unpaid Review
+
+
+- name: An IT guy with a large Ass
+  descr: "Oh my god! This was the best. This was soooo good! Just perfect! I came to this course every night! This is orgasmic. Arvind's voice is my ASMR! Now I can't satisfy my wife without Arvind's voice on the home theatre. I'm not gay yet, but, I'd be down for it for Arvind."
+  tags:
+    - tag: Clearly Paid Review
