@@ -29,5 +29,5 @@
 - name: Volatility Zones
   weight: 2
 
-- name: Ranges
+- name: Trading Ranges
   weight: 4
