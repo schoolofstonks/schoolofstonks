@@ -5,32 +5,32 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Macro
   weight: 5
 
-- name: Bash
+- name: Forex
   weight: 3
 
-- name: Scrum
+- name: Options
   weight: 3
 
-- name: Travis CI
+- name: Greeks
   weight: 1
 
-- name: Jenkins
+- name: Theories
   weight: 1
 
-- name: Chrome DevTools
+- name: Hedging
   weight: 2
 
-- name: npm
+- name: Futures
   weight: 2
 
-- name: gulp
+- name: Neutral
   weight: 4
 
-- name: VS Code
+- name: Strategies
   weight: 3
 
-- name: Postman
+- name: Psychology
   weight: 4

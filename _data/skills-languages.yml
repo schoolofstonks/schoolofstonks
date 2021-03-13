@@ -5,38 +5,32 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: Fundamental
   weight: 5
 
-- name: JavaScript
+- name: Technical
   weight: 4
 
-- name: Python
+- name: Indicator
   weight: 2
 
-- name: HTML5
+- name: Thesis
   weight: 4
 
-- name: CSS3
+- name: Anti-Thesis
   weight: 3
 
-- name: SASS
+- name: Strategies
   weight: 3
 
-- name: Java
+- name: Testing
   weight: 1
 
-- name: Dart
+- name: Curve Fitting
   weight: 1
 
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
+- name: Momentum
   weight: 2
 
-- name: Ruby
+- name: Spread
   weight: 2

@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Candle Theory
   weight: 5
 
-- name: AngularJS
+- name: Trend Zones
   weight: 3
 
-- name: React
+- name: Quant Zones
   weight: 4
 
-- name: Node
+- name: Fibonacci
   weight: 1
 
-- name: Flutter
+- name: Bally Zones
   weight: 2
 
-- name: Express
+- name: Fake zones
   weight: 3
 
-- name: Django
+- name: Confirmations
   weight: 1
 
-- name: Spring
+- name: Volatility Zones
   weight: 2
 
-- name: Rails
+- name: Ranges
   weight: 4
