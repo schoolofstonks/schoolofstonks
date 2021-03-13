@@ -65,7 +65,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: What some niqqas have told about the course<br><p style="font-size:11px">I mean, when the course is good, even normal reviews seem like paid. That's why i've added a paid review i purchased alongwith the other genuine ones.</p>
+projects_title: What some niqqas have told about the course<br><p style="font-size:12px">I mean, when the course is good, even normal reviews seem like paid. That's why i've added a paid review i purchased alongwith the other genuine ones.</p>
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -79,7 +79,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Get in touch (no. no touchy touchy stuff)
+contact_title: Get in touch (No. No touchy touchy stuff)
 # contact_description: This will be displayed under the title.
 contact_description: Send a mail <a href ="mailto:schoolofmarkets@gmail.com">here</a> Get in touch on Whatsapp <a href="https://wa.me/919884140499">here</a>
 
