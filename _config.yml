@@ -11,10 +11,10 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: School of Markets
+username: Stonks Pro
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Stonks Pro
+typing_text: From the School of Markets
 # email: Your E-Mail address for the email button.
 email: schoolofmarkets@gmail.com
 # For every social button you want to display, set your username or userid
