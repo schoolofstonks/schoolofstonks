@@ -51,16 +51,6 @@ contact_description: If the below FAQs don't answer your question, either Send a
     </li>
     <li><h4 style="color:red">Where to get the course?</h4><p><a href="https://rzp.io/SMMCpro"> Click here</a></p></li></ul>
     
-    <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_DHFzI76y7K9TmU/view" data-text="Get the Course" data-color="#f3f3f3" data-size="medium">
-  <script>
-    (function(){
-      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
-      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
-      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
-      rzp && rzp.init && rzp.init()}})();
-  </script>
-</div>
-
 plugins:
   - "jekyll-github-metadata"
 
