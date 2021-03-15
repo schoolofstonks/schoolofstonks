@@ -49,7 +49,7 @@ contact_description: If the below FAQs don't answer your question, either Send a
     </li>
     <li><h4 style="color:red">If I need a custom course, can I get in touch?</h4><p>Mail would be appreciated, a text on Whatsapp would be convinient, a call would be as uncomfortable as a premature ejaculation in the pants.</p>
     </li>
-    <li><h4 style="color:red">Where to get the course?</h4><p><a href="https://rzp.io/SMMCpro"> Click here</a></p></li></ul>
+    <li><h4 style="color:red">Where to get the course?</h4><p style="font-size:12px"><a href="https://rzp.io/SMMCpro"> Click here</a></p></li></ul>
 plugins:
   - "jekyll-github-metadata"
 
