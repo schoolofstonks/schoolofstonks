@@ -26,12 +26,14 @@ show_projects: true
 
 projects_title: What some dudes have said after completing the effin course<br><p style="font-size:12px">I mean, when the course is good, even normal reviews seem like paid. That's why i've added a paid review i purchased alongwith the other genuine ones.</p>
 show_os_projects: false
-os_projects_title: Open Source Projects
+os_projects_title:
 
 show_contact_card: true
 contact_title: <a href="https://rzp.io/l/SMMCpro">Fucking get the course here.</a> And, if you're not yet convinced... Get in touch here pussy! (No. No touchy touchy stuff)
 contact_description: Send a mail <a href ="mailto:schoolofmarkets@gmail.com">here</a> Get in touch on Whatsapp <a href="https://wa.me/919884140499">here</a> <br>
     <h3>FAQs</h3>
+    <ul>
+    <li><h4 style="font-color:red">Do I have to get this?</h4><p>You can. There is no "Have to". It's just like cleaning your butt after taking a shit. You "can". You don't "have to".
     <p>
 
 plugins:
