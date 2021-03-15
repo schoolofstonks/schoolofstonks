@@ -25,7 +25,7 @@ $(document).ready(function() {
   document.body.appendChild(css);
 
   // Initialize AOS
-	AOS.init({
+AOS.init({
      disable: false,
       offset: 200,
     duration: 600,
