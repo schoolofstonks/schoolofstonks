@@ -1,87 +1,38 @@
-### VALUES YOU SHOULD CHANGE ###
-
-# GENERAL SITE SETTINGS
-# title: This will be displayed as the website's name in your browser tab.
 title: Stonks Pro
-# description: This will be meta HTML tag content. This can be ignored.
+
 description: Go from Stinks to Stonks.
-# baseurl: The subpath of your site
-# > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
-# LANDING PAGE
-# username: This will displayed on the landing page as your name.
 username: S.t.o.n.k.s. Pro
-# typing_text: This will be typed before 'scroll down for more'.
-# > set this to your job title, e.g. Fullstack Developer
 typing_text: From the School of Markets
-# email: Your E-Mail address for the email button.
 email: schoolofmarkets@gmail.com
-# For every social button you want to display, set your username or userid
-# If you do not use one of the following websites, then leave it empty
-# > twitter_username:
-#github_username: longpdo
-#codepen_username: exampleUser
-#dev_username: exampleUser
-#linkedin_username: exampleUser
 twitter_username: school.of.markets
 
-# ABOUT ME SECTION
-# show_aboutme_card:
-# > setting this to true, will display the About Me section
-# > setting this to false, will omit the About Me section
 show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
+
 about_me_title: Oh fuck, another Guy with a course?
-# about_me_description: This will be displayed under the title.
+
 about_me_description: Firstly, it's 2021, don't assume my gender. <p style="color:red">And, secondly, I idenfity as a <em><b>Fucking "Panzerkampfwagen"</b></em></p> <i>(If you don't know what it means, may hitler's soul bless mercy on your incompetence)</i><br><p>The truth is that tere are just too many guys out there who sell Stock Tips/Calls/Ideas for shitloads of money. If you always ask "the guy" for tips, calls and trades, and just do what he says, i mean, you can as well cut off your balls with a rusted blade.</p><br><h3> Have balls, take your own calls.</h3><p> Stonks is here for that. The idea is to give you the know-how and the cumulative experiential learnings of several good and bad traders and investors so that you know what the fuck you're supposed to do. Choose Stonk, not Stink.</p>
-
-# SKILLS SECTION
-# show_skills_card:
-# > setting this to true, will display the Skills section
-# > setting this to false, will omit the Skills section
 show_skills_card: true
-# about_me_title: The will be displayed as the title in the Skills section
-skills_title: Some of the stuff you'll get in Stonks Pro
 
-# TIMELINE SECTION
-# show_timeline_card:
-# > setting this to true, will display the Timeline section
-# > setting this to false, will omit the Timeline section
+skills_title: Some of the stuff you'll get in Stonks Pro
 show_timeline_card: true
-# timeline_title: The will be displayed as the title in the Timeline section
+
 timeline_title: The Stonks timeline
-# cv_download_link: The link where you host your cv.
-# > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://rzp.io/l/SMMCpro
 
-# PROJECTS SECTION
-# show_projects_card:
-# > setting this to true, will display the Projects section
-# > setting this to false, will omit the Projects section
 show_projects_card: true
-# show_projects:
-# > setting this to true, will display your listed projects in _data/projects.yml
-# > setting this to false, will omit your listed projects
 show_projects: true
-# projects_title: The will be displayed as the title of your projects
+
 projects_title: What some dudes have said after completing the effin course<br><p style="font-size:12px">I mean, when the course is good, even normal reviews seem like paid. That's why i've added a paid review i purchased alongwith the other genuine ones.</p>
-# show_os_projects:
-# > setting this to true, will display your public projects on github
-# > setting this to false, will omit your public projects on github
 show_os_projects: false
-# os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
-# CONTACT SECTION
-# show_contact_card:
-# > setting this to true, will display the Contact section
-# > setting this to false, will omit the Contact section
 show_contact_card: true
-# contact_title: The will be displayed as the title in the Contact section
 contact_title: <a href="https://rzp.io/l/SMMCpro">Fucking get the course here.</a> And, if you're not yet convinced... Get in touch here pussy! (No. No touchy touchy stuff)
-# contact_description: This will be displayed under the title.
-contact_description: Send a mail <a href ="mailto:schoolofmarkets@gmail.com">here</a> Get in touch on Whatsapp <a href="https://wa.me/919884140499">here</a>
+contact_description: Send a mail <a href ="mailto:schoolofmarkets@gmail.com">here</a> Get in touch on Whatsapp <a href="https://wa.me/919884140499">here</a> <br>
+    <h3>FAQs</h3>
+    <p>
 
 plugins:
   - "jekyll-github-metadata"
